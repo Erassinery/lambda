@@ -1,0 +1,8 @@
+import panda as pd
+
+df=pd.DataFrame({
+    'id':[1,2,3,4,5],
+    'name':['Jeremy','Frank','Janet','Ryan','Mary'],
+    'age':[20,25,15,10,30],
+    'income':[4000,7000,200,0,10000]
+})
